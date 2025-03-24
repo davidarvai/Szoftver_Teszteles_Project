@@ -9,8 +9,11 @@ Ez a projekt egy Python nyelven írt egyszerű Employee rendszert és annak unit
 A kód célja az alkalmazotti adatkezelés, a fizetésszámítás és a csapatvezetői funkciók működésének demonstrálása unit tesztek segítségével.
 
 Főbb funkciók:
+
 ✔ Alkalmazotti adatok kezelése
+
 ✔ Fizetés és bónusz számítása a csapattagok alapján
+
 ✔ E-mail értesítések ellenőrzése
 
 A tesztek biztosítják, hogy az adatok helyesen kerülnek feldolgozásra, a bónusz számítása pontos legyen, és az értesítések megfelelően működjenek.
